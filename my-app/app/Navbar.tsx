@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { NavLinks } from '@/constants';
 // Note: We are using a temporary session check (null) for now.
 // We will replace this with real authentication later.
-
+// should not be here
 const Navbar = () => {
   const session = null; 
 
