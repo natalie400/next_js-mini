@@ -7,5 +7,5 @@ const Home = () => {
     </section>
   )
 }
-
+//redo this
 export default Home;
